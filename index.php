@@ -23,7 +23,7 @@
         <input type="text" id="myInput" placeholder="Search..." class="form-control w-50">
         <div> <br>
             <table class="table table-bordered">
-                <thead class="bg-warning">
+                <thead class=" text-center">
                     <tr>
                         <th>Title</th>
                         <th>ISBN</th>
